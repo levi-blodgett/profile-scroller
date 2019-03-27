@@ -4,15 +4,15 @@ const data = [
     age: 37,
     gender: 'Man',
     lookingfor: 'Women',
-    location: 'Sioux Falls SD',
+    location: 'Sioux Falls, SD',
     image: 'https://randomuser.me/api/portraits/men/82.jpg'
   },
   {
     name: 'Jen Smith',
     age: 29,
     gender: 'Woman',
-    lookingfor: 'Men',
-    location: 'New York NY',
+    lookingfor: 'Men and Women',
+    location: 'New York, NY',
     image: 'https://randomuser.me/api/portraits/women/52.jpg'
   },
   {
@@ -20,7 +20,7 @@ const data = [
     age: 26,
     gender: 'Man',
     lookingfor: 'Men',
-    location: 'Boston MA',
+    location: 'Boston, MA',
     image: 'https://randomuser.me/api/portraits/men/70.jpg'
   }
 ];
